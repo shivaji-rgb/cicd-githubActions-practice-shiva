@@ -24,8 +24,8 @@
 #         run: terraform apply -auto-approve tfplan
 
 on:
-  push:
-    branches: [main]
+  #push:
+   # branches: [main]
       
   workflow_dispatch:
 
